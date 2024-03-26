@@ -1,0 +1,627 @@
+body{
+    background-image: url(v1016-b-08.jpg);
+    background-size: auto;
+    background-repeat: repeat;
+    display: flex;
+    justify-content: center;
+    align-items: left;
+    flex-direction: column;
+}
+
+h1{
+    text-align: center;
+    color: white;
+}
+
+h2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    color: white;
+}
+
+p{
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    color: white;
+}
+
+.adam{
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+.adam img{
+    position: relative;
+    overflow: hidden;
+    right: 0px;
+    border-radius: 15%;
+    width: 100px;
+    display: inline-block;
+    transition: 0.3s;
+}
+
+.adam img:hover{
+    transform: scale(1.1);
+}
+
+.abdul{
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+.abdul img{
+    position: relative;
+    overflow: hidden;
+    right: 0px;
+    border-radius: 15%;
+    width: 100px;
+    display: inline-block;
+    transition: 0.3s;
+}
+
+.abdul img:hover{
+    transform: scale(1.1);
+}
+
+.gusty{
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+.gusty img{
+    position: relative;
+    overflow: hidden;
+    right: 0px;
+    border-radius: 15%;
+    width: 100px;
+    display: inline-block;
+    transition: 0.3s;
+}
+
+.gusty img:hover{
+    transform: scale(1.1);
+}
+
+.smoi{
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+.smoi img{
+    position: relative;
+    overflow: hidden;
+    right: 0px;
+    border-radius: 15%;
+    width: 100px;
+    display: inline-block;
+    transition: 0.3s;
+}
+
+.smoi img:hover{
+    transform: scale(1.1);
+}
+
+.zii{
+    position: relative;
+    top: 10px;
+    left: 0px;
+}
+
+.zii img{
+    position: relative;
+    overflow: hidden;
+    right: 0px;
+    border-radius: 15%;
+    width: 100px;
+    display: inline-block;
+    transition: 0.3s;
+}
+
+.zii img:hover{
+    transform: scale(1.1);
+}
+
+.eky{
+    position: relative;
+    top: 40px;
+    left: 0px;
+}
+
+.eky img{
+    position: relative;
+    overflow: hidden;
+    right: 0px;
+    border-radius: 15%;
+    width: 100px;
+    display: inline-block;
+    transition: 0.3s;
+}
+
+.eky img:hover{
+    transform: scale(1.1);
+}
+
+.rizkiansyah{
+    position: relative;
+    top: 10px;
+    left: 0px;
+}
+
+.rizkiansyah img{
+    position: relative;
+    overflow: hidden;
+    right: 0px;
+    border-radius: 15%;
+    width: 100px;
+    display: inline-block;
+    transition: 0.3s;
+}
+
+.rizkiansyah img:hover{
+    transform: scale(1.1);
+}
+
+.ade{
+    position: relative;
+    top: 30px;
+    left: 0px;
+}
+
+.ade img{
+    position: relative;
+    overflow: hidden;
+    right: 0px;
+    border-radius: 15%;
+    width: 100px;
+    display: inline-block;
+    transition: 0.3s;
+}
+
+.ade img:hover{
+    transform: scale(1.1);
+}
+
+.aws{
+    position: relative;
+    top: 5px;
+    left: 0px;
+}
+
+.aws img{
+    position: relative;
+    overflow: hidden;
+    right: 0px;
+    border-radius: 15%;
+    width: 100px;
+    display: inline-block;
+    transition: 0.3s;
+}
+
+.aws img:hover{
+    transform: scale(1.1);
+}
+
+.aria{
+    position: relative;
+    top: 10px;
+    left: 0px;
+}
+
+.aria img{
+    position: relative;
+    overflow: hidden;
+    right: 0px;
+    border-radius: 15%;
+    width: 100px;
+    display: inline-block;
+    transition: 0.3s;
+}
+
+
+.aria img:hover{
+    transform: scale(1.1);
+}
+
+.pretot{
+    position: relative;
+    top: 10px;
+    left: 0px;
+}
+
+.pretot img{
+    position: relative;
+    overflow: hidden;
+    right: 0px;
+    border-radius: 15%;
+    width: 110px;
+    display: inline-block;
+    transition: 0.3s;
+}
+
+
+.pretot img:hover{
+    transform: scale(1.1);
+}
+
+.edi{
+    position: relative;
+    top: 30px;
+    left: 0px;
+}
+
+.edi img{
+    position: relative;
+    overflow: hidden;
+    right: 0px;
+    border-radius: 15%;
+    width: 100px;
+    display: inline-block;
+    transition: 0.3s;
+}
+
+.edi img:hover{
+    transform: scale(1.1);
+}
+
+.fahlevy{
+    position: relative;
+    top: 30px;
+    left: 0px;
+}
+
+.fahlevy img{
+    position: relative;
+    overflow: hidden;
+    right: 0px;
+    border-radius: 15%;
+    width: 100px;
+    display: inline-block;
+    transition: 0.3s;
+}
+
+.fahlevy img:hover{
+    transform: scale(1.1);
+}
+
+.elle{
+    position: relative;
+    top: 30px;
+    left: 0px;
+}
+
+.elle img{
+    position: relative;
+    overflow: hidden;
+    right: 0px;
+    border-radius: 15%;
+    width: 100px;
+    display: inline-block;
+    transition: 0.3s;
+}
+
+.elle img:hover{
+    transform: scale(1.1);
+}
+
+.erwin{
+    position: relative;
+    top: 10px;
+    left: 0px;
+}
+
+.erwin img{
+    position: relative;
+    overflow: hidden;
+    right: 0px;
+    border-radius: 15%;
+    width: 100px;
+    display: inline-block;
+    transition: 0.3s;
+}
+
+.erwin img:hover{
+    transform: scale(1.1);
+}
+
+.eva{
+    position: relative;
+    top: 10px;
+    left: 0px;
+}
+
+.eva img{
+    position: relative;
+    overflow: hidden;
+    right: 0px;
+    border-radius: 15%;
+    width: 100px;
+    display: inline-block;
+    transition: 0.3s;
+}
+
+.eva img:hover{
+    transform: scale(1.1);
+}
+
+.laode{
+    position: relative;
+    top: 40px;
+    left: 0px;
+}
+
+.laode img{
+    position: relative;
+    overflow: hidden;
+    right: 0px;
+    border-radius: 15%;
+    width: 100px;
+    display: inline-block;
+    transition: 0.3s;
+}
+
+.laode img:hover{
+    transform: scale(1.1);
+}
+
+.dai{
+    position: relative;
+    top: 20px;
+    left: 0px;
+}
+
+.dai img{
+    position: relative;
+    overflow: hidden;
+    right: 0px;
+    border-radius: 15%;
+    width: 100px;
+    display: inline-block;
+    transition: 0.3s;
+}
+
+.dai img:hover{
+    transform: scale(1.1);
+}
+
+.agis{
+    position: relative;
+    top: 40px;
+    left: 0px;
+}
+
+.agis img{
+    position: relative;
+    overflow: hidden;
+    right: 0px;
+    border-radius: 15%;
+    width: 100px;
+    display: inline-block;
+    transition: 0.3s;
+}
+
+.agis img:hover{
+    transform: scale(1.1);
+}
+
+.agis{
+    position: relative;
+    top: 40px;
+    left: 0px;
+}
+
+.agis img{
+    position: relative;
+    overflow: hidden;
+    right: 0px;
+    border-radius: 15%;
+    width: 100px;
+    display: inline-block;
+    transition: 0.3s;
+}
+
+.agis img:hover{
+    transform: scale(1.1);
+}
+
+.dedi{
+    position: relative;
+    top: 40px;
+    left: 0px;
+}
+
+.dedi img{
+    position: relative;
+    overflow: hidden;
+    right: 0px;
+    border-radius: 15%;
+    width: 100px;
+    display: inline-block;
+    transition: 0.3s;
+}
+
+.dedi img:hover{
+    transform: scale(1.1);
+}
+
+.hamdan{
+    position: relative;
+    top: 40px;
+    left: 0px;
+}
+
+.hamdan img{
+    position: relative;
+    overflow: hidden;
+    right: 0px;
+    border-radius: 15%;
+    width: 100px;
+    display: inline-block;
+    transition: 0.3s;
+}
+
+.hamdan img:hover{
+    transform: scale(1.1);
+}
+
+.ipul{
+    position: relative;
+    top: 40px;
+    left: 0px;
+}
+
+.ipul img{
+    position: relative;
+    overflow: hidden;
+    right: 0px;
+    border-radius: 15%;
+    width: 100px;
+    display: inline-block;
+    transition: 0.3s;
+}
+
+.ipul img:hover{
+    transform: scale(1.1);
+}
+
+.eci{
+    position: relative;
+    top: 40px;
+    left: 0px;
+}
+
+.eci img{
+    position: relative;
+    overflow: hidden;
+    right: 0px;
+    border-radius: 15%;
+    width: 100px;
+    display: inline-block;
+    transition: 0.3s;
+}
+
+.eci img:hover{
+    transform: scale(1.1);
+}
+
+.dimas{
+    position: relative;
+    top: 40px;
+    left: 0px;
+}
+
+.dimas img{
+    position: relative;
+    overflow: hidden;
+    right: 0px;
+    border-radius: 15%;
+    width: 100px;
+    display: inline-block;
+    transition: 0.3s;
+}
+
+.dimas img:hover{
+    transform: scale(1.1);
+}
+
+
+.mulyana{
+    position: relative;
+    top: 40px;
+    left: 0px;
+}
+
+.mulyana img{
+    position: relative;
+    overflow: hidden;
+    right: 0px;
+    border-radius: 15%;
+    width: 100px;
+    display: inline-block;
+    transition: 0.3s;
+}
+
+.mulyana img:hover{
+    transform: scale(1.1);
+}
+
+.sudiro{
+    position: relative;
+    top: 40px;
+    left: 0px;
+}
+
+.sudiro img{
+    position: relative;
+    overflow: hidden;
+    right: 0px;
+    border-radius: 15%;
+    width: 100px;
+    display: inline-block;
+    transition: 0.3s;
+}
+
+.sudiro img:hover{
+    transform: scale(1.1);
+}
+
+.rasyid{
+    position: relative;
+    top: 40px;
+    left: 0px;
+}
+
+.rasyid img{
+    position: relative;
+    overflow: hidden;
+    right: 0px;
+    border-radius: 15%;
+    width: 100px;
+    display: inline-block;
+    transition: 0.3s;
+}
+
+.rasyid img:hover{
+    transform: scale(1.1);
+}
+
+.adi{
+    position: relative;
+    top: 20px;
+    left: 0px;
+}
+
+.adi img{
+    position: relative;
+    overflow: hidden;
+    right: 0px;
+    border-radius: 15%;
+    width: 100px;
+    display: inline-block;
+    transition: 0.3s;
+}
+
+.adi img:hover{
+    transform: scale(1.1);
+}
+
+button{
+    position: relative;
+    top: -10px;
+    right: 0px;
+    background-color: white;
+    color:black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 0.1em; 
+    box-shadow: 0 0 5px rgb(191, 194, 194);
+    transition: 0.3s;
+}
+
+button:hover{
+    box-shadow: 0 0 5px rgb(191, 194, 194), 0 0 25px rgb(191, 194, 194), 0 0 35px;
+}
